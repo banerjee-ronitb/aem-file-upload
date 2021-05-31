@@ -1,0 +1,14 @@
+{
+  "name": "aem-file-upload",
+  "version": "1.0.0",
+  "description": "AEM File Upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronit Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "@adobe/aem-upload": "^1.1.0"
+  }
+}
